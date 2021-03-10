@@ -1,3 +1,3 @@
 interface PaymentEntity {
-    \\ Some fields
+    \\ Some fields matching the API
 }

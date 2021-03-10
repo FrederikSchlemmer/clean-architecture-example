@@ -1,4 +1,4 @@
-class PaymentMapper extends Mapper<ProductEntity, ProductModel> {
+class ProductMapper extends Mapper<ProductEntity, ProductModel> {
 
     mapFrom(param: ProductEntity): ProductModel {
         // Implemented mapper functionality
